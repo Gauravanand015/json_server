@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
-    }
+      "id":1,
+	    "Username":"Jhon Doe",
+      "email":"jhon@gmail.com",
+      "password":"jhon123",
+      "user":"User"
+	}
   ],
   "dogs": [
     {
