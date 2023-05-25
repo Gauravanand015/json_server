@@ -16,5 +16,18 @@
       "place": "Visakhapatnam",
       "gender": "Male"
     }
-  ]
+  ],
+	"appointments":[
+	{
+		"id":1,
+	  "name": "Jane Doe",
+	  "image": "https://img.freepik.com/free-photo/attractive-young-male-nutriologist-lab-coat-smiling-against-white-background_662251-2960.jpg",
+	  "specialization": "Dermatologist",
+	  "experience": 10,
+	  "location": "Los Angeles",
+	  "date": "2023-04-05T12:00:00.000Z",
+		"slots": 2,
+	  "fee": 150
+	}
+	]
 }
